@@ -65,9 +65,9 @@
 ### Conferences
 | Abreviation | Conference | Headquarters | Logo | Website |
 | :---: | :---: | :---: | :---: | :---: |
-| AEAST | American East | Boston, MA | <img src="https://americaeast.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2024/2/15/AE_primary.png" alt="AEAST Logo" width="75"/> | [AEAST Website](https://americaeast.com/index.aspx) |
-| AAC | American Athletic Conference | Irving, TX | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/American_Athletic_Conference_logo.svg/300px-American_Athletic_Conference_logo.svg.png" alt="AAC Logo" width="50"/> | [AAC Website](https://theamerican.org/index.aspx) |
 | A10 | Atlantic 10 | Washington D.C. | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Atlantic_10_Conference_logo.svg/1280px-Atlantic_10_Conference_logo.svg.png" alt="A10 Logo" width="125"/> | [A10 Website](https://atlantic10.com/) |
+| AAC | American Athletic Conference | Irving, TX | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/American_Athletic_Conference_logo.svg/300px-American_Athletic_Conference_logo.svg.png" alt="AAC Logo" width="50"/> | [AAC Website](https://theamerican.org/index.aspx) |
+| AEAST | American East | Boston, MA | <img src="https://americaeast.com/common/controls/image_handler.aspx?thumb_id=0&image_path=/images/2024/2/15/AE_primary.png" alt="AEAST Logo" width="75"/> | [AEAST Website](https://americaeast.com/index.aspx) |
 | ACC | Atlantic Coast Conference | Charlotte, NC | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Atlantic_Coast_Conference_logo.svg/248px-Atlantic_Coast_Conference_logo.svg.png" alt="ACC Logo" width="125"/> | [ACC Website](https://theacc.com/) |
 | ASUN | Atlantic Sun | Jacksonville, FL | <img src="https://sportslogohistory.com/wp-content/uploads/2019/10/atlantic_sun_conference_2016-pres.png" alt="ASUN Logo" width="100"/> | [ASUN Website](https://asunsports.org/) |
 | B12 | Big 12 | Irving, TX | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Big_12_Conference_%28cropped%29_logo.svg/200px-Big_12_Conference_%28cropped%29_logo.svg.png" alt="B12 Logo" width="80"/> | [B12 Website](https://big12sports.com/) |
