@@ -13,7 +13,7 @@
 ## Teams
 | Logo | School | Mascot | Location | Conference Titles | NCAA Championship |
 | --- | --- | --- | --- | --- | --- |
-| ![Logo]() | [Team]() | Mascot | City, State | 2001, 2002, 2003 | 2002, 2003 |
+| ![Logo]() | [Team Template]() | Mascot | City, State | 2001, 2002, 2003 | 2002, 2003 |
 
 ---
 
